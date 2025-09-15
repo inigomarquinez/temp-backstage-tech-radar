@@ -87,23 +87,39 @@
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
-      "key": "code-reviews",
-      "id": "code-reviews",
-      "title": "Code Reviews",
-      "quadrant": "process"
+      "key": "klaviyo",
+      "id": "klaviyo",
+      "title": "Klaviyo",
+      "description": "Owner: Martín (Marketing) | Tech Owner: Johan",
+      "quadrant": "tools",
+      "links": [
+        {
+          "url": "https://www.klaviyo.com/",
+          "title": "Website"
+        }
+      ]
+
     },
     {
       "timeline": [
         {
           "moved": 0,
-          "ringId": "assess",
+          "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
-      "key": "mob-programming",
-      "id": "mob-programming",
-      "title": "Mob Programming",
-      "quadrant": "process"
+      "key": "algolia",
+      "id": "algolia",
+      "title": "Algolia",
+      "description": "Owner: IT Department | Tech Owner: Mello",
+      "owner": "IT Department",
+      "quadrant": "tools",
+      "links": [
+        {
+          "url": "https://www.algolia.com/",
+          "title": "Website"
+        }
+      ]
     },
     {
       "timeline": [
@@ -116,7 +132,7 @@
       "key": "docs-like-code",
       "id": "docs-like-code",
       "title": "Docs-like-code",
-      "quadrant": "process"
+      "quadrant": "tools"
     },
     {
       "timeline": [
@@ -128,7 +144,7 @@
       "key": "force-push",
       "id": "force-push",
       "title": "Force push to master",
-      "quadrant": "process"
+      "quadrant": "tools"
     },
     {
       "timeline": [
@@ -169,8 +185,8 @@
       "name": "Languages"
     },
     {
-      "id": "process",
-      "name": "Process"
+      "id": "tools",
+      "name": "Tools"
     }
   ],
   "rings": [
